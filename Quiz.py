@@ -20,7 +20,7 @@ questions = [
     ["Qual é o maior oceano do mundo?", "Atlântico", "Índico", "Pacífico", "Ártico", 3],
     ["Qual é o resultado de 2 elevado a 8?", "8", "16", "64", "256", 4],
     ["Quem escreveu a obra '1984'?", "George Orwell", "Aldous Huxley", "Ernest Hemingway", "F. Scott Fitzgerald", 1],
-    ["Qual é o resultado de 15 menos 7?", "5", "6", "7", "8", 3],
+    ["Qual é o resultado de 15 menos 7?", "5", "6", "7", "8", 4],
     ["De quem é a famosa frase “Penso, logo existo”?", "Platão", "Galileu Galilei", "Descartes", "Sócrates", 3]
 ]
 
